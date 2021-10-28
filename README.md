@@ -5,7 +5,8 @@
 <a href="https://github.com/l4rzy?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=l4rzy&layout=compact" alt="language stats for l4rzy">
 </a>
-### Hi there 👋
+
+### Hi, and the next thing is ...
 
 <!--
 **l4rzy/l4rzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
