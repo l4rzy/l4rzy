@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=l4rzy&layout=compact" alt="language stats for l4rzy">
 </a>
 
-### Hi, and the next thing is ...
+### Hi, how the hell Javascript is my most used language ...
 
 <!--
 **l4rzy/l4rzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
